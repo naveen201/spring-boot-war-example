@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "finally successfully";
+        return "deploy project by usning jenkins automation and without any human intervetion up to deploy in test environment";
     }
 
 }

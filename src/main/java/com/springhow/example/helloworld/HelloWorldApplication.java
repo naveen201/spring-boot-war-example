@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "deploy project by usning jenkins and without any human intervetion to deploy in test environment(tomcat server) & after succesfully, It deploy to prod environment by triggred manually.";
+        return "End to end CI/CD pipeline deployment on Jenkins. This pipeline is capable of deployement in test environment(tomcat server). After successful testing we can manually triggred deployemnt job for prod environment.";
     }
 
 }

@@ -1,4 +1,4 @@
-# spring-boot-war-example
+# 1 Spring-boot-war-example - CLI Implementation 
 spring-boot-war-example, Deploy tomcat server using cli on aws
 
 
@@ -8,8 +8,15 @@ spring-boot-war-example, Deploy tomcat server using cli on aws
 
 
 
-running app
+**Running App**
 
 ![image](https://github.com/naveen201/spring-boot-war-example/assets/42841119/72d18cd5-ba15-4eef-bdd3-cb459d4fce75)
 
+# 2 Spring-boot-war-example - Building an End-to-End CI/CD Pipeline for a Web Application!
+
+**Test Environment and Prod Enviroment output webpage**
+<img width="960" alt="application-display-message" src="https://github.com/naveen201/spring-boot-war-example/assets/42841119/de480798-0553-4a07-a2e3-874192027e7d">
+
+**Pipeline Flow diagram**
+<img width="960" alt="jenkins" src="https://github.com/naveen201/spring-boot-war-example/assets/42841119/f42d0158-4728-4a99-8b32-76a89deacb9f">
 
